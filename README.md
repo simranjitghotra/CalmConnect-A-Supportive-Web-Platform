@@ -5,4 +5,5 @@ CalmConnect is a thoughtfully designed web application created to support autist
 The platform focuses on emotional regulation, routine building, and calming activities through simple and engaging features.
 
 This project aims to create a safe, comforting, and easy-to-use digital space for children who benefit from structured routines and calming interactions.
+I am currently working on this project so it will take some sometime to get the propoer output which i imagined but this is the topic on whch i am working on and want to make an app for autistic people.
 <img width="1920" height="3110" alt="screencapture-localhost-3000-index-html-2025-12-15-10_25_36" src="https://github.com/user-attachments/assets/3db45f3a-bf84-40bf-bf33-a7ad050106b2" />
